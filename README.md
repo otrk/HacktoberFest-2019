@@ -8,7 +8,7 @@ Please Follow these steps to make your first pull request-
 
     Fork this repository.
 
-    Clone your forked repository to your local machine.
+    Clone your forked repository to your local machines.
 
     Add your name in index.html (Just open "index.html" and include your name and the link to your github profile in the "li" tags to make a connection with all other open enthusiasts like us.)
 
@@ -32,4 +32,4 @@ Congratulations!! You have successfully created your pull request.
 
 
 
-Wait for your shirt.. Enjoy Coding.. Visit my reposities for furthur help
+Wait for your shirt.. Enjoy Coding.. Visit my reposities for furthur helps
